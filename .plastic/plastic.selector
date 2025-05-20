@@ -1,0 +1,4 @@
+repository "Revolution@tj_wjb2000@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
